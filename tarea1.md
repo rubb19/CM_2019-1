@@ -19,4 +19,7 @@
 ###### [Infraestructura Actual](https://www.whistleout.com.mx/CellPhones/Guides/telefonia-celular-mexico)
 ###### [Consumo actual de datos en México](http://puentelibre.mx/noticia/147338-consumo_de_datos_mexico_2018_2015_redes_wifi/2)
 ###### [Número de smartphones en México - 2018](http://www.jornada.com.mx/ultimas/2018/05/08/venta-de-smartphones-en-2017-casi-iguala-a-poblacion-total-del-pais-6711.html)
+###### [Uso del smartphone para sintonizar la copa mundial de fútbol](http://www.jornada.com.mx/ultimas/2018/06/10/el-mundial-sera-visto-a-traves-de-560-millones-de-celulares-4127.html)
 ###### [Prospectiva del consumo de datos móviles a nivel mundial para el 2021](https://www.cisco.com/c/en/us/solutions/collateral/service-provider/visual-networking-index-vni/mobile-white-paper-c11-520862.html)
+###### [Estadísticas nacionales sobre el uso de internet](http://www.inegi.org.mx/saladeprensa/aproposito/2017/internet2017_Nal.pdf)
+###### [Prospectiva de mercado de IoT en México para el 2022](http://www.milenio.com/negocios/internet-alcanzara-4-mil-mdd-mexico)
